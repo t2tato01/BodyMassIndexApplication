@@ -1,6 +1,8 @@
 # Body Mass Index Calculator
 
 This Android app calculates the Body Mass Index (BMI) based on a person's height and weight. BMI is a measure of body fat based on height and weight that applies to adult men and women.
+![Screenshot](ScreenshotBodyMass.png)
+
 
 ## Features
 
